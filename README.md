@@ -1,5 +1,3 @@
-# Web-scraper-final-
-Seleccionamos 3 autoservios (sears, palacio de hierro y coppel), en donde se comparó de entre 3 prendas diferentes los precios, después realizamos las consultas SQL y por último hicimos gráficas comparativas  
 
 README
 Equipo #1
